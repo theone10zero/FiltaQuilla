@@ -17,3 +17,8 @@
 *.zip
 *.log
 desktop.ini
+
+#############################################################################
+# Ignore local tooling files
+/.claude/
+/CLAUDE.md

@@ -1,0 +1,456 @@
+{
+  "aboutAndSupport": {
+    "message": "关于 FiltaQuilla / 帮助"
+  },
+  "applyIncomingMails": {
+    "message": "对传入的邮件运行过滤器"
+  },
+  "aria.configSettings": {
+    "message": "高级配置 — 用于其他设置。"
+  },
+  "checkJavascriptActionBodyEnabled.accesskey": {
+    "message": "带"
+  },
+  "checkJavascriptActionBodyEnabled.label": {
+    "message": "带正文的 JavaScript 动作"
+  },
+  "checkJavascriptEnabled.accesskey": {
+    "message": "J"
+  },
+  "checkJavascriptEnabled.label": {
+    "message": "JavaScript"
+  },
+  "default": {
+    "message": "使用默认值"
+  },
+  "editJavascript": {
+    "message": "编辑 JavaScript"
+  },
+  "enabled": {
+    "message": "已启用"
+  },
+  "extensionDescription": {
+    "description": "Description of the extension.",
+    "message": "为邮件过滤器添加许多额外的操作和搜索条件 — 打印邮件、移除星标或标签、标记为已回复或未读、复制为已读、使用正则表达式搜索。"
+  },
+  "extensionName": {
+    "description": "Name of the extension.",
+    "message": "FiltaQuilla"
+  },
+  "extensions.filtaquilla.description": {
+    "message": "邮件过滤器自定义操作"
+  },
+  "feature.unsupported": {
+    "message": "当前不支持此功能。"
+  },
+  "filtaquilla.applyIncomingFilters": {
+    "message": "对传入邮件应用过滤器"
+  },
+  "filtaquilla.applyIncomingFilters.accesskey": {
+    "message": "传"
+  },
+  "filtaquilla.editJavascript": {
+    "message": "编辑 JavaScript…"
+  },
+  "filtaquilla.enabled": {
+    "message": "已启用"
+  },
+  "filtaquilla.filters": {
+    "message": "过滤器"
+  },
+  "filtaquilla.notificationAlert": {
+    "message": "显示桌面通知"
+  },
+  "notificationAlert.messageCount": {
+    "message": "（$COUNT$ 封邮件）",
+    "placeholders": { "count": { "content": "$1" } }
+  },
+  "filtaquilla.inherit": {
+    "message": "继承"
+  },
+  "filtaquilla.javascriptAction.name": {
+    "message": "JavaScript 动作"
+  },
+  "filtaquilla.javascriptActionBody.name": {
+    "message": "带正文的 JavaScript 动作"
+  },
+  "filtaquilla.launcher.launch": {
+    "message": "启动该文件！"
+  },
+  "filtaquilla.launcher.select": {
+    "message": "选择文件…"
+  },
+  "filtaquilla.playSound": {
+    "message": "播放声音"
+  },
+  "filtaquilla.runProgram.select": {
+    "message": "选择程序…"
+  },
+  "filtaquilla.runProgram.title": {
+    "message": "选择要运行的程序"
+  },
+  "filtaquilla.selectFolder.btn": {
+    "message": "选择文件夹…"
+  },
+  "filtaquilla.selectFolder.title": {
+    "message": "选择文件夹"
+  },
+  "filtaquilla.template.select": {
+    "message": "选择模板…"
+  },
+  "filtaquilla.tone.select": {
+    "message": "选择声音文件…"
+  },
+  "filterActions": {
+    "message": "过滤器操作"
+  },
+  "fq.Bcc": {
+    "message": "密送"
+  },
+  "fq.Bcc.access": {
+    "message": "密"
+  },
+  "fq.addSender": {
+    "message": "将发件人添加到地址列表"
+  },
+  "fq.addSender.access": {
+    "message": "添"
+  },
+  "fq.attachmentRegex": {
+    "message": "附件名称正则匹配"
+  },
+  "fq.bodyRegex": {
+    "message": "正文正则匹配"
+  },
+  "fq.copyAsRead": {
+    "message": "复制为已读"
+  },
+  "fq.copyAsRead.access": {
+    "message": "复"
+  },
+  "fq.detachAttachments": {
+    "message": "分离附件到"
+  },
+  "fq.detachAttachments.access": {
+    "message": "分"
+  },
+  "fq.filtaquilla.mustSelectFolder": {
+    "message": "您必须选择一个目标文件夹"
+  },
+  "fq.fileNameMaxLength": {
+    "message": "最大长度"
+  },
+  "fq.fileNameSpaceCharacter": {
+    "message": "将文件名中的空格替换为"
+  },
+  "fq.fileNameWhiteList": {
+    "message": "允许的字符"
+  },
+  "fq.folderName": {
+    "message": "文件夹名称"
+  },
+  "fq.folderName.access": {
+    "message": "夹"
+  },
+  "fq.hdrRegex": {
+    "message": "邮件头正则匹配"
+  },
+  "fq.hdrRegex.access": {
+    "message": "头"
+  },
+  "fq.javascript": {
+    "message": "JavaScript"
+  },
+  "fq.javascriptAction": {
+    "message": "JavaScript 动作"
+  },
+  "fq.javascriptAction.access": {
+    "message": "作"
+  },
+  "fq.launchFile": {
+    "message": "启动文件"
+  },
+  "fq.launchFile.access": {
+    "message": "启"
+  },
+  "fq.markReplied": {
+    "message": "标记为已回复"
+  },
+  "fq.markReplied.access": {
+    "message": "回"
+  },
+  "fq.markUnread": {
+    "message": "标记为未读"
+  },
+  "fq.markUnread.access": {
+    "message": "未"
+  },
+  "fq.moveLater": {
+    "message": "稍后移动"
+  },
+  "fq.moveLater.access": {
+    "message": "移"
+  },
+  "fq.nobiff": {
+    "message": "不发送通知"
+  },
+  "fq.nobiff.access": {
+    "message": "不"
+  },
+  "fq.print": {
+    "message": "打印"
+  },
+  "fq.print.access": {
+    "message": "打"
+  },
+  "fq.printAllowDuplicates": {
+    "message": "允许重复项"
+  },
+  "fq.printTools": {
+    "message": "使用 PrintingTools NG 进行打印"
+  },
+  "fq.regex.caseInsensitive": {
+    "message": "正则表达式不区分大小写匹配"
+  },
+  "fq.regex.caseInsensitive.tip": {
+    "message": "启用后，FiltaQuilla 会自动为正则表达式应用 {s}/i{/s}，这可能会破坏统计大小写字母的前瞻断言。禁用此项可保留区分大小写的匹配，或在正则表达式末尾使用 {s}/c{/s}。"
+  },
+  "fq.regex.multilineanchors": {
+    "message": "在地址邮件头中支持锚点标记 {s}^{/s} 和 {s}${/s}"
+  },
+  "fq.removeflagged": {
+    "message": "移除星标"
+  },
+  "fq.removeflagged.access": {
+    "message": "星"
+  },
+  "fq.removekeyword": {
+    "message": "移除标签"
+  },
+  "fq.removekeyword.access": {
+    "message": "标"
+  },
+  "fq.runFile": {
+    "message": "运行程序"
+  },
+  "fq.runFile.access": {
+    "message": "运"
+  },
+  "fq.runFile.unicode": {
+    "message": "默认使用 UTF-16"
+  },
+  "fq.runFile.unicode.tooltip": {
+    "message": "使用附加参数 @UTF16@ 或 @UTF8@ 可为单个文件指定编码"
+  },
+  "fq.saveAttachment": {
+    "message": "保存附件到"
+  },
+  "fq.saveAttachment.access": {
+    "message": "附"
+  },
+  "fq.saveMsgAsFile": {
+    "message": "将邮件另存为文件"
+  },
+  "fq.saveMsgAsFile.access": {
+    "message": "存"
+  },
+  "fq.smartTemplate.fwd": {
+    "message": "使用 SmartTemplate 转发"
+  },
+  "fq.smartTemplate.rsp": {
+    "message": "使用 SmartTemplate 回复"
+  },
+  "fq.archiveMessage": {
+    "message": "归档邮件"
+  },
+  "fq.subjectBodyRegex": {
+    "message": "主题或正文正则匹配"
+  },
+  "fq.subjectRegex": {
+    "message": "主题正则匹配"
+  },
+  "fq.subjectRegex.access": {
+    "message": "题"
+  },
+  "fq.subjectappend": {
+    "message": "在主题末尾追加"
+  },
+  "fq.subjectappend.access": {
+    "message": "追"
+  },
+  "fq.subjectprepend": {
+    "message": "在主题开头插入"
+  },
+  "fq.subjectprepend.access": {
+    "message": "插"
+  },
+  "fq.threadAnyTag": {
+    "message": "会话中邮件的标签"
+  },
+  "fq.threadAnyTag.access": {
+    "message": "话"
+  },
+  "fq.threadHeadTag": {
+    "message": "会话首封邮件的标签"
+  },
+  "fq.threadHeadTag.access": {
+    "message": "首"
+  },
+  "fq.toneQuilla": {
+    "message": "播放声音"
+  },
+  "fq.toneQuilla.unpack": {
+    "message": "解压内置声音"
+  },
+  "fq.trainGood": {
+    "message": "标记为正常邮件"
+  },
+  "fq.trainGood.access": {
+    "message": "正"
+  },
+  "fq.trainJunk": {
+    "message": "标记为垃圾邮件"
+  },
+  "fq.trainJunk.access": {
+    "message": "垃"
+  },
+  "githubPage": {
+    "message": "访问 FiltaQuilla GitHub 页面"
+  },
+  "helpFeatureTip": {
+    "message": "显示此功能的详细信息"
+  },
+  "indexInGlobalDatabase": {
+    "message": "索引到全局数据库"
+  },
+  "inherit": {
+    "message": "继承"
+  },
+  "inheritedProperties": {
+    "message": "继承的属性"
+  },
+  "message.btn.accept": { "message": "确定" },
+  "message.btn.cancel": { "message": "取消" },
+  "message.btn.changeLog": {
+    "message": "显示最新更改 $versionPart$…",
+    "placeholders": { "versionPart": { "content": "$1", "example": " version 6.0" } }
+  },
+  "message.btn.no": { "message": "否" },
+  "message.btn.yes": { "message": "是" },
+  "message.linkInTab": { "message": "（链接已在标签页中打开）" },
+  "message.placeholder": { "message": "缺少邮件。" },
+  "message.restart": {
+    "message": ""
+  },
+  "newsHead": { "message": "最新消息" },
+  "newsMsgForced": {
+    "message": "{P}致发行版通道用户的重要提示（{emph}155 及更高版本{/emph}）：随着 Thunderbird 采用新的两周发布周期，出现意外问题的风险有所上升。尽管我会定期使用 Thunderbird 的每日构建版测试 {+extensionName}，但能否及时修复取决于发行版用户的{b}及时反馈{/b}。请关注 {a href='https://github.com/RealRaven2000/FiltaQuilla/issues'}问题跟踪器{/a}，并尽快报告任何回归问题，以帮助维持兼容性。{/P}"
+  },
+  "optionsIntro": {
+    "message": "启用您希望出现在“过滤器规则”对话框中的所有项目。更改后请重新启动。"
+  },
+  "pane1.title": {
+    "message": "FiltaQuilla 首选项"
+  },
+  "prefPanel-inheritPane": {
+    "message": "继承的属性"
+  },
+  "prefwindow.title": {
+    "message": "FiltaQuilla 首选项"
+  },
+  "purchase-a-license": {
+    "message": "购买许可证。"
+  },
+  "purchase-heading": {
+    "message": "购买许可证！"
+  },
+  "quickFiltersPage": {
+    "message": "获取 quickFilters！"
+  },
+  "quickFiltersPage_desc": {
+    "message": "下载这个超赞的附加组件，为您的过滤工作加速。quickFilters 让过滤器的定义和管理变得轻而易举。"
+  },
+  "regex.accept": {
+    "message": "接受"
+  },
+  "regex.btnBuilder.tooltip": {
+    "message": "点击此处测试您的正则表达式"
+  },
+  "regex.cancel": {
+    "message": "取消"
+  },
+  "regex.collapseWhiteSpace": {
+    "message": "折叠所有空白字符"
+  },
+  "regex.contentfilter": {
+    "message": "内容限制："
+  },
+  "regex.content.plaintext": {
+    "message": "处理纯文本部分"
+  },
+  "regex.content.html": {
+    "message": "处理 HTML 部分"
+  },
+  "regex.content.raw": {
+    "message": "原始模式：不对纯文本部分进行预处理。"
+  },
+  "regex.content.vcard": {
+    "message": "处理 vCard 部分"
+  },
+  "regex.exclude.html": {
+    "message": "排除所有 HTML 标签"
+  },
+  "regex.exclude.quotes": {
+    "message": "排除引文（HTML 和纯文本）"
+  },
+  "regex.exclude.style": {
+    "message": "排除全局 &lt;style&gt; 标签和 CSS"
+  },
+  "regex.expression": {
+    "message": "正则表达式"
+  },
+  "regex.popup": {
+    "message": "搜索选项…"
+  },
+  "regex.raw.help": {
+    "message": "FiltaQuilla 默认会合并纯文本部分中的所有段落，也就是移除因回流而产生的换行，这也会移除段落末尾的引用标记 {>}。如果您希望搜索未经处理的原始邮件，请启用此选项。"
+  },
+  "regex.switches": {
+    "message": "搜索开关"
+  },
+  "searchTerms": {
+    "message": "搜索条件"
+  },
+  "supportFiltaquilla": {
+    "message": "支持 FiltaQuilla"
+  },
+  "supportFiltaquilla_desc": {
+    "message": "FiltaQuilla 可免费下载和使用 — 支持开发团队的最佳方式是购买 quickFilters Pro 许可证。它是最出色的过滤器扩展之一，让您能够以非常便捷的方式管理和创建过滤器。"
+  },
+  "supportPage": {
+    "message": "访问支持页面"
+  },
+  "supportPage_desc": {
+    "message": "本页介绍您可以使用 FiltaQuilla 为邮件过滤器添加的不同操作和条件。"
+  },
+  "versionPart": {
+    "message": "（版本 $1$）",
+    "placeholders": { "1": { "content": "$1", "example": "6.0" } }
+  },
+  "whats-new-head": {
+    "message": "重要更改"
+  },
+  "whats-new-intro": {
+    "message": "FiltaQuilla 得益于我在其他附加组件上的工作而得以延续：{A-qI}quickFilters{/A}、{A-QF}QuickFolders{/A} 和 {A-ST}SmartTemplates{/A}。请到附加组件商店看看吧！"
+  },
+  "whats-new-list": {
+    "description": "🇨🇳 change log",
+    "message": "{U}{L}{b class=maintenance}6.3.2{/b} {+extensionName} 现已兼容 Thunderbird {bold}160.*{/bold}。{/L}{L}{b class=maintenance}6.3.2{/b} 修复了 Thunderbird 159 beta 中移除 {s}msgHdrFromURI{/s} 后导致保存完成时出错的问题，该问题还可能延迟后续的移动操作。[问题 421]{/L}{L}{b class=maintenance}6.3.2{/b} 修复了在屏幕尺寸异常时（Linux 或虚拟机）JavaScript 编辑器无法打开的问题。[问题 419]{/L}{/U}{P}{bold}近期历史：6.3.1{/bold}{/P}{U}{L}{+extensionName} 现已兼容 Thunderbird {bold}159.*{/bold}。{/L}{L}修复了因 Thunderbird API 变更而导致的 {i}{+fq.saveMsgAsFile}{/i} 过滤器操作错误。[问题 417]{/L}{L}通过为 Thunderbird 窗口留出更多加载时间，提高了启动的可靠性。{/L}{/U}"
+  },
+  "whats-new-maintenance": {
+    "message": "维护更新 $ver$。此修复是在上一个版本之后添加的。",
+    "placeholders": {
+      "ver": { "content": "$1", "example": "6.12.3" }
+    }
+  }
+}

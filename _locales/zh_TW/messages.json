@@ -1,0 +1,456 @@
+{
+  "aboutAndSupport": {
+    "message": "關於 FiltaQuilla / 說明"
+  },
+  "applyIncomingMails": {
+    "message": "對傳入的郵件執行篩選器"
+  },
+  "aria.configSettings": {
+    "message": "進階配置 — 用於其他設定。"
+  },
+  "checkJavascriptActionBodyEnabled.accesskey": {
+    "message": "含"
+  },
+  "checkJavascriptActionBodyEnabled.label": {
+    "message": "含正文的 JavaScript 動作"
+  },
+  "checkJavascriptEnabled.accesskey": {
+    "message": "J"
+  },
+  "checkJavascriptEnabled.label": {
+    "message": "JavaScript"
+  },
+  "default": {
+    "message": "使用預設值"
+  },
+  "editJavascript": {
+    "message": "編輯 JavaScript"
+  },
+  "enabled": {
+    "message": "已啟用"
+  },
+  "extensionDescription": {
+    "description": "Description of the extension.",
+    "message": "為郵件篩選器新增許多額外的動作與搜尋條件 — 列印郵件、移除星號或標籤、標記為已回覆或未讀、複製為已讀、使用正規表示式搜尋。"
+  },
+  "extensionName": {
+    "description": "Name of the extension.",
+    "message": "FiltaQuilla"
+  },
+  "extensions.filtaquilla.description": {
+    "message": "郵件篩選器自訂動作"
+  },
+  "feature.unsupported": {
+    "message": "目前不支援此功能。"
+  },
+  "filtaquilla.applyIncomingFilters": {
+    "message": "對傳入郵件套用篩選器"
+  },
+  "filtaquilla.applyIncomingFilters.accesskey": {
+    "message": "傳"
+  },
+  "filtaquilla.editJavascript": {
+    "message": "編輯 JavaScript…"
+  },
+  "filtaquilla.enabled": {
+    "message": "已啟用"
+  },
+  "filtaquilla.filters": {
+    "message": "篩選器"
+  },
+  "filtaquilla.notificationAlert": {
+    "message": "顯示桌面通知"
+  },
+  "notificationAlert.messageCount": {
+    "message": "（$COUNT$ 封郵件）",
+    "placeholders": { "count": { "content": "$1" } }
+  },
+  "filtaquilla.inherit": {
+    "message": "繼承"
+  },
+  "filtaquilla.javascriptAction.name": {
+    "message": "JavaScript 動作"
+  },
+  "filtaquilla.javascriptActionBody.name": {
+    "message": "含正文的 JavaScript 動作"
+  },
+  "filtaquilla.launcher.launch": {
+    "message": "啟動該檔案！"
+  },
+  "filtaquilla.launcher.select": {
+    "message": "選擇檔案…"
+  },
+  "filtaquilla.playSound": {
+    "message": "播放音效"
+  },
+  "filtaquilla.runProgram.select": {
+    "message": "選擇程式…"
+  },
+  "filtaquilla.runProgram.title": {
+    "message": "選擇要執行的程式"
+  },
+  "filtaquilla.selectFolder.btn": {
+    "message": "選擇資料夾…"
+  },
+  "filtaquilla.selectFolder.title": {
+    "message": "選擇資料夾"
+  },
+  "filtaquilla.template.select": {
+    "message": "選擇範本…"
+  },
+  "filtaquilla.tone.select": {
+    "message": "選擇音效檔…"
+  },
+  "filterActions": {
+    "message": "篩選器動作"
+  },
+  "fq.Bcc": {
+    "message": "密送"
+  },
+  "fq.Bcc.access": {
+    "message": "密"
+  },
+  "fq.addSender": {
+    "message": "將寄件者加入位址清單"
+  },
+  "fq.addSender.access": {
+    "message": "加"
+  },
+  "fq.attachmentRegex": {
+    "message": "附件名稱正規表示式比對"
+  },
+  "fq.bodyRegex": {
+    "message": "本文正規表示式比對"
+  },
+  "fq.copyAsRead": {
+    "message": "複製為已讀"
+  },
+  "fq.copyAsRead.access": {
+    "message": "複"
+  },
+  "fq.detachAttachments": {
+    "message": "將附件分離至"
+  },
+  "fq.detachAttachments.access": {
+    "message": "分"
+  },
+  "fq.filtaquilla.mustSelectFolder": {
+    "message": "您必須選擇一個目標資料夾"
+  },
+  "fq.fileNameMaxLength": {
+    "message": "最大長度"
+  },
+  "fq.fileNameSpaceCharacter": {
+    "message": "將檔名中的空格取代為"
+  },
+  "fq.fileNameWhiteList": {
+    "message": "允許的字元"
+  },
+  "fq.folderName": {
+    "message": "資料夾名稱"
+  },
+  "fq.folderName.access": {
+    "message": "夾"
+  },
+  "fq.hdrRegex": {
+    "message": "郵件標頭正規表示式比對"
+  },
+  "fq.hdrRegex.access": {
+    "message": "頭"
+  },
+  "fq.javascript": {
+    "message": "JavaScript"
+  },
+  "fq.javascriptAction": {
+    "message": "JavaScript 動作"
+  },
+  "fq.javascriptAction.access": {
+    "message": "作"
+  },
+  "fq.launchFile": {
+    "message": "啟動檔案"
+  },
+  "fq.launchFile.access": {
+    "message": "啟"
+  },
+  "fq.markReplied": {
+    "message": "標記為已回覆"
+  },
+  "fq.markReplied.access": {
+    "message": "覆"
+  },
+  "fq.markUnread": {
+    "message": "標記為未讀"
+  },
+  "fq.markUnread.access": {
+    "message": "未"
+  },
+  "fq.moveLater": {
+    "message": "稍後移動"
+  },
+  "fq.moveLater.access": {
+    "message": "移"
+  },
+  "fq.nobiff": {
+    "message": "不顯示通知"
+  },
+  "fq.nobiff.access": {
+    "message": "不"
+  },
+  "fq.print": {
+    "message": "列印"
+  },
+  "fq.print.access": {
+    "message": "印"
+  },
+  "fq.printAllowDuplicates": {
+    "message": "允許重複項目"
+  },
+  "fq.printTools": {
+    "message": "使用 PrintingTools NG 進行列印"
+  },
+  "fq.regex.caseInsensitive": {
+    "message": "正規表示式不分大小寫比對"
+  },
+  "fq.regex.caseInsensitive.tip": {
+    "message": "啟用後，FiltaQuilla 會自動為正規表示式加上 {s}/i{/s}，這可能會破壞計算大小寫字母的前瞻斷言。停用此項可保留區分大小寫的比對，或在正規表示式結尾加上 {s}/c{/s}。"
+  },
+  "fq.regex.multilineanchors": {
+    "message": "在位址郵件標頭中支援錨點標記 {s}^{/s} 與 {s}${/s}"
+  },
+  "fq.removeflagged": {
+    "message": "移除星號"
+  },
+  "fq.removeflagged.access": {
+    "message": "星"
+  },
+  "fq.removekeyword": {
+    "message": "移除標籤"
+  },
+  "fq.removekeyword.access": {
+    "message": "標"
+  },
+  "fq.runFile": {
+    "message": "執行程式"
+  },
+  "fq.runFile.access": {
+    "message": "執"
+  },
+  "fq.runFile.unicode": {
+    "message": "預設使用 UTF-16"
+  },
+  "fq.runFile.unicode.tooltip": {
+    "message": "使用附加參數 @UTF16@ 或 @UTF8@ 可為個別檔案指定編碼"
+  },
+  "fq.saveAttachment": {
+    "message": "儲存附件至"
+  },
+  "fq.saveAttachment.access": {
+    "message": "附"
+  },
+  "fq.saveMsgAsFile": {
+    "message": "將郵件另存為檔案"
+  },
+  "fq.saveMsgAsFile.access": {
+    "message": "存"
+  },
+  "fq.smartTemplate.fwd": {
+    "message": "使用 SmartTemplate 轉寄"
+  },
+  "fq.smartTemplate.rsp": {
+    "message": "使用 SmartTemplate 回覆"
+  },
+  "fq.archiveMessage": {
+    "message": "封存郵件"
+  },
+  "fq.subjectBodyRegex": {
+    "message": "主旨或本文正規表示式比對"
+  },
+  "fq.subjectRegex": {
+    "message": "主旨正規表示式比對"
+  },
+  "fq.subjectRegex.access": {
+    "message": "旨"
+  },
+  "fq.subjectappend": {
+    "message": "在主旨結尾附加"
+  },
+  "fq.subjectappend.access": {
+    "message": "尾"
+  },
+  "fq.subjectprepend": {
+    "message": "在主旨開頭插入"
+  },
+  "fq.subjectprepend.access": {
+    "message": "插"
+  },
+  "fq.threadAnyTag": {
+    "message": "討論串中郵件的標籤"
+  },
+  "fq.threadAnyTag.access": {
+    "message": "串"
+  },
+  "fq.threadHeadTag": {
+    "message": "討論串首封郵件的標籤"
+  },
+  "fq.threadHeadTag.access": {
+    "message": "首"
+  },
+  "fq.toneQuilla": {
+    "message": "播放音效"
+  },
+  "fq.toneQuilla.unpack": {
+    "message": "解壓縮內建音效"
+  },
+  "fq.trainGood": {
+    "message": "標記為正常郵件"
+  },
+  "fq.trainGood.access": {
+    "message": "正"
+  },
+  "fq.trainJunk": {
+    "message": "標記為垃圾郵件"
+  },
+  "fq.trainJunk.access": {
+    "message": "垃"
+  },
+  "githubPage": {
+    "message": "造訪 FiltaQuilla GitHub 頁面"
+  },
+  "helpFeatureTip": {
+    "message": "顯示此功能的詳細資訊"
+  },
+  "indexInGlobalDatabase": {
+    "message": "索引至全域資料庫"
+  },
+  "inherit": {
+    "message": "繼承"
+  },
+  "inheritedProperties": {
+    "message": "繼承的屬性"
+  },
+  "message.btn.accept": { "message": "確定" },
+  "message.btn.cancel": { "message": "取消" },
+  "message.btn.changeLog": {
+    "message": "顯示最新變更 $versionPart$…",
+    "placeholders": { "versionPart": { "content": "$1", "example": " version 6.0" } }
+  },
+  "message.btn.no": { "message": "否" },
+  "message.btn.yes": { "message": "是" },
+  "message.linkInTab": { "message": "（連結已在分頁中開啟）" },
+  "message.placeholder": { "message": "缺少郵件。" },
+  "message.restart": {
+    "message": ""
+  },
+  "newsHead": { "message": "最新消息" },
+  "newsMsgForced": {
+    "message": "{P}致發行版通道使用者的重要提示（{emph}155 及更新版本{/emph}）：隨著 Thunderbird 採用新的兩週發布週期，出現非預期問題的風險有所上升。雖然我會定期使用 Thunderbird 的每日建置版測試 {+extensionName}，但能否即時修正取決於發行版使用者的{b}即時回報{/b}。請追蹤 {a href='https://github.com/RealRaven2000/FiltaQuilla/issues'}問題追蹤器{/a}，並儘速回報任何退化問題，以協助維持相容性。{/P}"
+  },
+  "optionsIntro": {
+    "message": "啟用您希望在「篩選器規則」對話方塊中顯示的所有項目。變更後請重新啟動。"
+  },
+  "pane1.title": {
+    "message": "FiltaQuilla 偏好設定"
+  },
+  "prefPanel-inheritPane": {
+    "message": "繼承的屬性"
+  },
+  "prefwindow.title": {
+    "message": "FiltaQuilla 偏好設定"
+  },
+  "purchase-a-license": {
+    "message": "購買授權。"
+  },
+  "purchase-heading": {
+    "message": "購買授權！"
+  },
+  "quickFiltersPage": {
+    "message": "取得 quickFilters！"
+  },
+  "quickFiltersPage_desc": {
+    "message": "下載這個超讚的附加元件，讓您的篩選工作事半功倍。quickFilters 讓篩選器的定義與管理變得輕鬆容易。"
+  },
+  "regex.accept": {
+    "message": "接受"
+  },
+  "regex.btnBuilder.tooltip": {
+    "message": "按此處以測試您的正規表示式"
+  },
+  "regex.cancel": {
+    "message": "取消"
+  },
+  "regex.collapseWhiteSpace": {
+    "message": "收合所有空白字元"
+  },
+  "regex.contentfilter": {
+    "message": "內容限制："
+  },
+  "regex.content.plaintext": {
+    "message": "處理純文字部分"
+  },
+  "regex.content.html": {
+    "message": "處理 HTML 部分"
+  },
+  "regex.content.raw": {
+    "message": "原始模式：對純文字部分不做預先處理。"
+  },
+  "regex.content.vcard": {
+    "message": "處理 vCard 部分"
+  },
+  "regex.exclude.html": {
+    "message": "排除所有 HTML 標籤"
+  },
+  "regex.exclude.quotes": {
+    "message": "排除引文（HTML 與純文字）"
+  },
+  "regex.exclude.style": {
+    "message": "排除全域 &lt;style&gt; 標籤與 CSS"
+  },
+  "regex.expression": {
+    "message": "正規表示式"
+  },
+  "regex.popup": {
+    "message": "搜尋選項…"
+  },
+  "regex.raw.help": {
+    "message": "FiltaQuilla 預設會合併純文字部分中的段落，也就是移除因重新排版而產生的換行，這也會移除段落結尾的引用符號 {>}。若您想要搜尋未經處理的原始郵件，請啟用此選項。"
+  },
+  "regex.switches": {
+    "message": "搜尋開關"
+  },
+  "searchTerms": {
+    "message": "搜尋條件"
+  },
+  "supportFiltaquilla": {
+    "message": "支持 FiltaQuilla"
+  },
+  "supportFiltaquilla_desc": {
+    "message": "FiltaQuilla 可免費下載與使用 — 支持開發團隊的最佳方式是購買 quickFilters Pro 授權。它是最出色的篩選器擴充功能之一，讓您能以非常便利的方式管理與建立篩選器。"
+  },
+  "supportPage": {
+    "message": "造訪支援頁面"
+  },
+  "supportPage_desc": {
+    "message": "本頁說明您可以使用 FiltaQuilla 為郵件篩選器加入的各種動作與條件。"
+  },
+  "versionPart": {
+    "message": "（版本 $1$）",
+    "placeholders": { "1": { "content": "$1", "example": "6.0" } }
+  },
+  "whats-new-head": {
+    "message": "重要變更"
+  },
+  "whats-new-intro": {
+    "message": "FiltaQuilla 得益於我在其他附加元件上的工作而延續：{A-qI}quickFilters{/A}、{A-QF}QuickFolders{/A} 與 {A-ST}SmartTemplates{/A}。歡迎到附加元件商店看看！"
+  },
+  "whats-new-list": {
+    "description": "🇹🇼 change log",
+    "message": "{U}{L}{b class=maintenance}6.3.2{/b} {+extensionName} 現已相容於 Thunderbird {bold}160.*{/bold}。{/L}{L}{b class=maintenance}6.3.2{/b} 修正了 Thunderbird 159 beta 中移除 {s}msgHdrFromURI{/s} 後造成儲存完成時出錯的問題，此問題也可能延後後續的移動操作。[問題 421]{/L}{L}{b class=maintenance}6.3.2{/b} 修正了螢幕尺寸異常時（Linux 或虛擬機器）JavaScript 編輯器無法開啟的問題。[問題 419]{/L}{/U}{P}{bold}近期歷史：6.3.1{/bold}{/P}{U}{L}{+extensionName} 現已相容於 Thunderbird {bold}159.*{/bold}。{/L}{L}修正了因 Thunderbird API 變更而造成的 {i}{+fq.saveMsgAsFile}{/i} 篩選器動作錯誤。[問題 417]{/L}{L}透過為 Thunderbird 視窗留出更多載入時間，提高了啟動的可靠性。{/L}{/U}"
+  },
+  "whats-new-maintenance": {
+    "message": "維護更新 $ver$。此修正是在上一個版本之後加入的。",
+    "placeholders": {
+      "ver": { "content": "$1", "example": "6.12.3" }
+    }
+  }
+}
